@@ -1,16 +1,20 @@
-### Hi there 👋
 
-<!--
-**KTnics/KTnics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <h1>Hello EveryOne WelCoME </h1>
+ </p>
+<a href=" https://www.linkedin.com/in/nikhil-patil-51a573205/" align="center">
+ <h2>Check my Linkedin  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="50" />
+          </h2>
+  
+ </a>
+ <img src="https://i.imgur.com/YuliGt2.jpeg" width="100%"/>
+<h2> 🚀 &nbsp;Some skills I Have Used and Learned</h2>
+<p align="left">
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" alt="bash" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="bash" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"  alt="bash" width="45" height="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg"  alt="bash" width="45" height="45" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" alt="bash" width="45" height="45"  />
+          
+  </p>
